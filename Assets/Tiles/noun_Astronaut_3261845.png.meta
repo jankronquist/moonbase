@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 2598f83d79e6b4cf48d6bafbafe6ce72
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5948507753276555790
+    second: noun_Astronaut_3261845_0
+  - first:
+      213: -6821419947075868322
+    second: noun_Astronaut_3261845_1
+  - first:
+      213: 2986947256868297835
+    second: noun_Astronaut_3261845_2
+  - first:
+      213: 5220230532352607731
+    second: noun_Astronaut_3261845_3
+  - first:
+      213: 5148800124205775285
+    second: noun_Astronaut_3261845_4
+  - first:
+      213: -7848998040398741995
+    second: noun_Astronaut_3261845_5
+  - first:
+      213: 2887654862628110214
+    second: noun_Astronaut_3261845_6
+  - first:
+      213: 6012193661079886811
+    second: noun_Astronaut_3261845_7
+  - first:
+      213: -5081357492137525021
+    second: noun_Astronaut_3261845_8
+  - first:
+      213: -1875103916114422967
+    second: noun_Astronaut_3261845_9
+  - first:
+      213: 6128218337617162030
+    second: noun_Astronaut_3261845_10
+  - first:
+      213: -879527507615927148
+    second: noun_Astronaut_3261845_11
+  - first:
+      213: -706699129360032322
+    second: noun_Astronaut_3261845_12
+  - first:
+      213: 3086142123003455437
+    second: noun_Astronaut_3261845_13
+  - first:
+      213: -2421004983406027839
+    second: noun_Astronaut_3261845_14
+  - first:
+      213: 1524084249378411028
+    second: noun_Astronaut_3261845_15
+  - first:
+      213: -6283049859556422822
+    second: noun_Astronaut_3261845_16
+  - first:
+      213: 9115417984937899516
+    second: noun_Astronaut_3261845_17
+  - first:
+      213: -5892249854006714373
+    second: noun_Astronaut_3261845_18
+  - first:
+      213: 3192022896846784447
+    second: noun_Astronaut_3261845_19
+  - first:
+      213: -2020559879287728268
+    second: noun_Astronaut_3261845_20
+  - first:
+      213: 1153537126778344095
+    second: noun_Astronaut_3261845_21
+  - first:
+      213: -622066744799460275
+    second: noun_Astronaut_3261845_22
+  - first:
+      213: -2577593901745811314
+    second: noun_Astronaut_3261845_23
+  - first:
+      213: -7024922420413337543
+    second: noun_Astronaut_3261845_24
+  - first:
+      213: 4731818216657054149
+    second: noun_Astronaut_3261845_25
+  - first:
+      213: -1622972445423244219
+    second: noun_Astronaut_3261845_26
+  - first:
+      213: -5929313505478472449
+    second: noun_Astronaut_3261845_27
+  - first:
+      213: 1121980495372255458
+    second: noun_Astronaut_3261845_28
+  - first:
+      213: 2690718347468300067
+    second: noun_Astronaut_3261845_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 700
+  spriteBorder: {x: 0, y: 98, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: noun_Astronaut_3261845_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd3b4607b7a27da0800000000000000
+      internalID: -5948507753276555790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

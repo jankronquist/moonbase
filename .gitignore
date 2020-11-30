@@ -1,0 +1,10 @@
+.vs
+Temp
+Logs
+UIElementsSchema
+UserSettings
+*.csproj
+obj
+Library
+Builds
+bin
